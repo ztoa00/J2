@@ -1,0 +1,5 @@
+you have to install these module to run those files:
+
+    * boto3
+    * pandas
+    * s3fs
